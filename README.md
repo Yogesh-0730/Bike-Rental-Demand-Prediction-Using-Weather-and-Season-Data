@@ -1,3 +1,4 @@
+
 # Bike Rental Demand Prediction Using Weather and Season Data
 
 ## CLA-3 — Machine Learning Case Study (Regression)
@@ -102,3 +103,7 @@ python bike_rental_prediction.py
 ### 📝 License
 
 This project is for academic purposes (CLA-3 Case Study Submission).
+
+# Bike-Rental-Demand-Prediction-Using-Weather-and-Season-Data
+# Bike Rental Demand Prediction 🚲  A Machine Learning regression project that predicts hourly bike rental demand using weather, seasonal, and time-related data. Implements Linear Regression, Decision Tree, Random Forest, and Gradient Boosting. Uses Python, Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn.
+
